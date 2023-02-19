@@ -8,5 +8,5 @@ flask (pip install flask)
 $ python api.py
 run index.html into browser
 ```
-hosted app is at https://ephemeral-beignet-ac4156.netlify.app\
+hosted app is at https://ephemeral-beignet-ac4156.netlify.app \
 hosted api is at https://baba-3yc6.onrender.com
